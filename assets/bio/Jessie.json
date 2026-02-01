@@ -1,0 +1,80 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jessie",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Jessie has lived in Pelican Town for many years. She owns and operates the Lodging House in East Scarp, where she provides shelter and guidance to young people who have lost their way.\\n\\n**Personality and Values:**\\n\\nWhilst Jessie has no desire to marry or have children of her own, she has a compassionate and caring nature. She 'takes in' young folk, particularly teenagers, who need some guidance. She is friendly with the townsfolk, but the only one she really feels a real connection with is Linus, who shares similar views as her.\\n\\n**Work:**\\n\\nJessie works evening shifts and Saturdays at JojaMart. While she may not be especially fond of mega corporations, she feels that they need someone with heart behind the counter, especially in a small village like Pelican Town. She also spends time in her garden growing herbs and flowers, and runs a small shop selling a selection of seeds.\\n\\n**Interests:**\\n\\nJessie loves gardening and grows various herbs and flowers which she brews into remedies for the townsfolk.",
+        "Relationships": {
+          "Linus": {
+            "id": "Linus",
+            "Heading": "Linus",
+            "Description": "The only person Jessie feels a real connection with, as they share similar views and values."
+          },
+          "Juliet": {
+            "id": "Juliet",
+            "Heading": "Juliet",
+            "Description": "One of the young people staying at Jessie's Lodging House, whom Jessie has taken in and guides."
+          }
+        },
+        "Traits": {
+          "Compassionate": {
+            "id": "Compassionate",
+            "Heading": "Compassionate",
+            "Description": "She has a caring nature and helps young people who have lost their way."
+          },
+          "Independent": {
+            "id": "Independent",
+            "Heading": "Independent",
+            "Description": "She has no desire to marry or have children, choosing her own path in life."
+          },
+          "Nurturing": {
+            "id": "Nurturing",
+            "Heading": "Nurturing",
+            "Description": "She takes in teenagers who need guidance and provides them with shelter and support."
+          },
+          "Pragmatic": {
+            "id": "Pragmatic",
+            "Heading": "Pragmatic",
+            "Description": "Despite not liking corporations, she works at JojaMart because she feels they need someone with heart there."
+          },
+          "GardenEnthusiast": {
+            "id": "GardenEnthusiast",
+            "Heading": "Garden Enthusiast",
+            "Description": "She loves gardening and grows herbs and flowers to make remedies for the community."
+          }
+        },
+        "BiographyEnd": "Jessie represents unconventional care and community support, creating her own family by helping those who need it while maintaining her independence and connection to the land through her garden.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "gardening",
+          "herbs and flowers",
+          "making remedies for townsfolk",
+          "the young people staying at her lodging house",
+          "Linus",
+          "working at JojaMart",
+          "her seed shop",
+          "helping teenagers who need guidance"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Linus",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Jessie": {
+          "id": "Jessie",
+          "Heading": "Jessie",
+          "Description": "Jessie is the only person Linus feels a real connection with, as they share similar views about life and independence. She owns the Lodging House in East Scarp and understands his choice to live outside conventional society."
+        }
+      }
+    }
+  ]
+}

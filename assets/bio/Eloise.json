@@ -1,0 +1,152 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Eloise",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Eloise is Jacob's precocious daughter and Vivienne's granddaughter. She is very outgoing and loves animals, with a particular fondness for birds, due to her upbringing by her veterinarian father.\\n\\n**Background:**\\n\\nEloise was born in the Gotoro Republic to Ferngill parents. She lived there until the threat of war drove her family back home to the Ferngill Republic. Her mother Delilah is deceased. She keeps in contact with her childhood friend Sora via an unconventional postal system.\\n\\n**Daily Life:**\\n\\nOn Tuesdays, Wednesdays, and Fridays, Eloise attends class with Jas and Vincent. She stays with one of them (most commonly Jas) on Tuesday nights, as her father Jacob spends Tuesdays doing his rounds as the valley's mobile vet.\\n\\n**Living Situation:**\\n\\nEloise lives with her father Jacob and grandmother Vivienne in their home in East Scarp, located north of Aideen's home.",
+        "Relationships": {
+          "Jacob": {
+            "id": "Jacob",
+            "Heading": "Jacob (father)",
+            "Description": "Eloise's father, a veterinarian who works as the valley's mobile vet. She lives with him and her grandmother."
+          },
+          "Vivienne": {
+            "id": "Vivienne",
+            "Heading": "Vivienne (grandmother)",
+            "Description": "Eloise's grandmother who lives with her and Jacob."
+          },
+          "Delilah": {
+            "id": "Delilah",
+            "Heading": "Delilah (mother, deceased)",
+            "Description": "Eloise's deceased mother."
+          },
+          "Clint": {
+            "id": "Clint",
+            "Heading": "Clint (uncle)",
+            "Description": "The blacksmith from Pelican Town is Eloise's uncle."
+          },
+          "Vincent": {
+            "id": "Vincent",
+            "Heading": "Vincent",
+            "Description": "One of Eloise's classmates and friends."
+          },
+          "Jas": {
+            "id": "Jas",
+            "Heading": "Jas",
+            "Description": "One of Eloise's classmates and friends. Eloise often stays at Jas's house on Tuesday nights."
+          },
+          "Penny": {
+            "id": "Penny",
+            "Heading": "Penny",
+            "Description": "Eloise's teacher and friend."
+          },
+          "Sora": {
+            "id": "Sora",
+            "Heading": "Sora",
+            "Description": "Eloise's childhood friend from when she lived in the Gotoro Republic. They keep in contact via an unconventional postal system."
+          }
+        },
+        "Traits": {
+          "Precocious": {
+            "id": "Precocious",
+            "Heading": "Precocious",
+            "Description": "Eloise is notably bright and advanced for her age."
+          },
+          "Outgoing": {
+            "id": "Outgoing",
+            "Heading": "Outgoing",
+            "Description": "She is very social and friendly, making friends easily."
+          },
+          "AnimalLover": {
+            "id": "AnimalLover",
+            "Heading": "Animal Lover",
+            "Description": "Eloise loves animals, particularly birds, influenced by growing up around her father's veterinary work."
+          },
+          "LoyalFriend": {
+            "id": "LoyalFriend",
+            "Heading": "Loyal Friend",
+            "Description": "She maintains her friendship with Sora despite the distance and circumstances that separated them."
+          }
+        },
+        "BiographyEnd": "Eloise represents resilience and adaptability, having experienced displacement due to war while maintaining her cheerful, animal-loving nature and commitment to her friendships.",
+        "ExtraPortraits": {
+          "Normal": "normal expression"
+        },
+        "Unique": "",
+        "Preoccupations": [
+          "animals",
+          "birds",
+          "her father's veterinary work",
+          "school with Jas and Vincent",
+          "her friend Sora",
+          "her grandmother Vivienne",
+          "her late mother",
+          "the Gotoro Republic",
+          "staying at Jas's house on Tuesdays"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jas",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Eloise": {
+          "id": "Eloise",
+          "Heading": "Eloise",
+          "Description": "Eloise is one of Jas's classmates and friends. Eloise often stays at Jas's house on Tuesday nights while her father Jacob does his veterinary rounds around the valley."
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Vincent",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Eloise": {
+          "id": "Eloise",
+          "Heading": "Eloise",
+          "Description": "Eloise is one of Vincent's classmates, attending Penny's lessons together with him and Jas."
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Penny",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Eloise": {
+          "id": "Eloise",
+          "Heading": "Eloise",
+          "Description": "Eloise is one of Penny's students, a precocious young girl who attends classes with Jas and Vincent."
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Clint",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Eloise": {
+          "id": "Eloise",
+          "Heading": "Eloise",
+          "Description": "Eloise is Clint's niece, the daughter of his brother Jacob. She is a precocious young girl who loves animals, especially birds."
+        },
+        "Jacob": {
+          "id": "Jacob",
+          "Heading": "Jacob",
+          "Description": "Jacob is Clint's brother, the valley's mobile veterinarian who is raising his daughter Eloise after the death of his wife Delilah."
+        }
+      }
+    }
+  ]
+}

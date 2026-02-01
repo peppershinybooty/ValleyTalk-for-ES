@@ -1,0 +1,55 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Beatrice",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Beatrice is the keeper of the East Scarp Lighthouse. She has been in Pelican Town for many years and has watched it grow over time.\\n\\n**Background:**\\n\\nBeatrice has a sad past, though she gradually opens up about her life as the farmer gets to know her better. Despite her personal struggles, she is always willing to offer a friendly ear or advice to those who need it.\\n\\n**Daily Life:**\\n\\nBeatrice spends most of her time keeping watch over the sea from the lighthouse. She must return to the lighthouse every evening to make sure the light is lit. Every week she heads into town to shop at Pierre's, and once a month she reads to the kids at the library on the 12th.",
+        "Relationships": {},
+        "Traits": {
+          "Friendly": {
+            "id": "Friendly",
+            "Heading": "Friendly",
+            "Description": "Despite her sad past, Beatrice is always willing to offer a friendly ear or advice to those who need it."
+          },
+          "Dedicated": {
+            "id": "Dedicated",
+            "Heading": "Dedicated",
+            "Description": "She is devoted to her duties as lighthouse keeper, ensuring the light is lit every evening to keep sailors safe."
+          },
+          "CaresForChildren": {
+            "id": "CaresForChildren",
+            "Heading": "Cares for Children",
+            "Description": "She reads to the kids at the library once a month, showing her nurturing side."
+          },
+          "Watchful": {
+            "id": "Watchful",
+            "Heading": "Watchful",
+            "Description": "She spends most of her time keeping watch over the sea, vigilant in her lighthouse duties."
+          },
+          "GraduallyOpening": {
+            "id": "GraduallyOpening",
+            "Heading": "Gradually Opening",
+            "Description": "As the farmer gets to know her, she starts to open up about her life and her sad past."
+          }
+        },
+        "BiographyEnd": "Beatrice represents quiet dedication and the willingness to help others despite carrying personal sorrows. Her presence at the lighthouse serves as both a literal and metaphorical beacon for the community.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "lighthouse duties",
+          "keeping watch over the sea",
+          "lighting the lighthouse every evening",
+          "shopping at Pierre's",
+          "reading to children at the library",
+          "her past",
+          "helping others"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

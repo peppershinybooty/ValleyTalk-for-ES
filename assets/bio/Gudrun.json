@@ -1,0 +1,108 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Gudrun",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Gudrun Bear is a 14-year-old high school student living at Bear Lodge with her aunt Sondra and her brothers Gunnar and Sig. At 5'5\" and still growing, she has a burning passion for the environment and fish of all kinds, while being full of apprehension about growing up.\\n\\n**Personality and Interests:**\\n\\nGudrun is an eco-activist with a pool of knowledge filled with facts about pollution, aquatic life, and why her older brothers are SUCH DORKS. She dreams of living on a barge in the river or on the sea, but for now she's stuck with the reality of homework and the impending doom of higher education. Despite her youth, she takes environmental issues seriously and isn't afraid to share her opinions with an eyeroll and a smirk.\\n\\nHer passion for fish and aquatic life is genuine and deep, making her knowledgeable beyond her years about marine ecosystems and environmental conservation. However, beneath her activist exterior lies typical teenage anxieties about growing up and figuring out her future.\\n\\n**Family:**\\n\\nGudrun lives with her aunt Sondra and her two older brothers at Bear Lodge in East Scarp. Her relationship with her brothers Gunnar and Sig is typical of siblings - she thinks they're dorks but is part of their close-knit family unit. As the youngest Bear family member living at the lodge, she's still navigating adolescence while her brothers have moved on to young adulthood.\\n\\n**Social Connections:**\\n\\nGudrun has formed friendships with Abigail and Haley from Pelican Town, as well as an unexpected friendship with Pierre. These connections show she can bridge different social circles despite her strong opinions and activist tendencies.\\n\\n**Growing Up:**\\n\\nAt 14, Gudrun is at a crossroads between her idealistic dreams of environmental activism and the practical realities of being a teenager with homework and college looming ahead. She will need some emotional growth along the way as she navigates these conflicting pressures.",
+        "Relationships": {
+          "Sondra": {
+            "id": "Sondra",
+            "Heading": "Sondra (Aunt)",
+            "Description": "Gudrun's aunt who lives with the Bear family at Bear Lodge and provides stability."
+          },
+          "Gunnar": {
+            "id": "Gunnar",
+            "Heading": "Gunnar (Brother)",
+            "Description": "Gudrun's older brother who runs a questionable shop. She thinks he's a dork but they're family."
+          },
+          "Sig": {
+            "id": "Sig",
+            "Heading": "Sig (Brother)",
+            "Description": "Gudrun's oldest brother, the recently discharged soldier. She thinks he's a dork but they're family."
+          },
+          "Abigail": {
+            "id": "Abigail",
+            "Heading": "Abigail",
+            "Description": "One of Gudrun's friends from Pelican Town."
+          },
+          "Haley": {
+            "id": "Haley",
+            "Heading": "Haley",
+            "Description": "One of Gudrun's friends from Pelican Town."
+          },
+          "Pierre": {
+            "id": "Pierre",
+            "Heading": "Pierre",
+            "Description": "An unexpected friend of Gudrun's, the shopkeeper from Pelican Town."
+          }
+        },
+        "Traits": {
+          "EcoActivist": {
+            "id": "EcoActivist",
+            "Heading": "Eco-Activist",
+            "Description": "Passionate about the environment, pollution issues, and conservation with knowledge beyond her years."
+          },
+          "KnowledgeableAboutFish": {
+            "id": "KnowledgeableAboutFish",
+            "Heading": "Knowledgeable About Fish",
+            "Description": "Has a deep love for fish and aquatic life, with extensive knowledge of marine ecosystems."
+          },
+          "SassyTeenager": {
+            "id": "SassyTeenager",
+            "Heading": "Sassy Teenager",
+            "Description": "Quick with an eyeroll and a smirk, not afraid to express her opinions about her brothers being dorks."
+          },
+          "Idealistic": {
+            "id": "Idealistic",
+            "Heading": "Idealistic",
+            "Description": "Dreams of living on a barge in the river or sea, free from conventional responsibilities."
+          },
+          "ApprehensiveAboutGrowingUp": {
+            "id": "ApprehensiveAboutGrowingUp",
+            "Heading": "Apprehensive About Growing Up",
+            "Description": "Full of anxiety about the future, higher education, and leaving behind her idealistic dreams for adult reality."
+          },
+          "Opinionated": {
+            "id": "Opinionated",
+            "Heading": "Opinionated",
+            "Description": "Has strong views on environmental issues and isn't shy about sharing them."
+          },
+          "StillGrowing": {
+            "id": "StillGrowing",
+            "Heading": "Still Growing",
+            "Description": "At 14 and 5'5\", she's still growing both physically and emotionally, navigating the challenges of adolescence."
+          }
+        },
+        "BiographyEnd": "Gudrun's story is one of youthful passion meeting the harsh realities of growing up. She represents the tension between idealistic environmental activism and the practical demands of teenage life and education.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "the environment",
+          "pollution",
+          "fish",
+          "aquatic life",
+          "marine ecosystems",
+          "conservation",
+          "living on a barge",
+          "homework",
+          "higher education",
+          "her dork brothers",
+          "Gunnar being a dork",
+          "Sig being a dork",
+          "growing up",
+          "the future",
+          "Sondra",
+          "Abigail",
+          "Haley",
+          "Pierre",
+          "Bear Lodge"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Tori",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "[PLACEHOLDER - Full biography for Tori]",
+        "Relationships": {},
+        "Traits": {},
+        "BiographyEnd": "[PLACEHOLDER - Biography conclusion for Tori]",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "PromptOverrides": {},
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

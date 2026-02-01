@@ -1,0 +1,143 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/GameSummary",
+        "TargetField": [ "Locations", "Entries" ],
+        "Entries": {
+            "EastScarp_Village": {
+            "id": "EastScarp_Village",
+            "Region": "East Scarp",
+            "Name": "East Scarp Village",
+            "Description": "[PLACEHOLDER - Main village area of East Scarp]"
+          },
+          "EastScarp_Crossing": {
+            "id": "EastScarp_Crossing",
+            "Region": "East Scarp",
+            "Name": "East Scarp Crossing",
+            "Description": "[PLACEHOLDER - Crossing/clearing house area with bus stop and minecart]"
+          },
+          "EastScarp_DeepDark": {
+            "id": "EastScarp_DeepDark",
+            "Region": "East Scarp",
+            "Name": "Under Scarp",
+            "Description": "[PLACEHOLDER - Underground area beneath East Scarp]"
+          },
+          "EastScarp_DeepMountains": {
+            "id": "EastScarp_DeepMountains",
+            "Region": "East Scarp",
+            "Name": "Deep Mountains",
+            "Description": "[PLACEHOLDER - Mountain area in East Scarp region]"
+          },
+          "EastScarp_ZuzuBurb": {
+            "id": "EastScarp_ZuzuBurb",
+            "Region": "Zuzu City",
+            "Name": "Zuzu Suburb (Academic District)",
+            "Description": "[PLACEHOLDER - Suburban area of Zuzu City with academic buildings]"
+          },
+          "AideenHome": {
+            "id": "AideenHome",
+            "Region": "East Scarp",
+            "Name": "Aideen's Home",
+            "Description": "Aideen's home near the center of East Scarp, between Victoria's house and the vet clinic. She lives here with her cat Baron Munchington. The house has two spare rooms that she attempts to rent out, and is surrounded by a little garden."
+          },
+          "VictoriaHome": {
+            "id": "VictoriaHome",
+            "Region": "East Scarp",
+            "Name": "Victoria's House",
+            "Description": "[PLACEHOLDER - Victoria's house in East Scarp, located near Aideen's home]"
+          },
+          "VetClinic": {
+            "id": "VetClinic",
+            "Region": "East Scarp",
+            "Name": "Vet Clinic",
+            "Description": "[PLACEHOLDER - Veterinary clinic in East Scarp, located near Aideen's home]"
+          },
+          "EastScarpLighthouse": {
+            "id": "EastScarpLighthouse",
+            "Region": "East Scarp",
+            "Name": "East Scarp Lighthouse",
+            "Description": "The lighthouse on East Scarp Beach, kept by Beatrice. She watches over the sea from here and lights the beacon every evening to guide sailors safely."
+          },
+          "EastScarpInn": {
+            "id": "EastScarpInn",
+            "Region": "East Scarp",
+            "Name": "East Scarp Inn",
+            "Description": "An inn in East Scarp where Corwin stays during his shore leave."
+          },
+          "EastScarpWharf": {
+            "id": "EastScarpWharf",
+            "Region": "East Scarp",
+            "Name": "East Scarp Wharf",
+            "Description": "The wharf in East Scarp where the Toroa anchors during certain festivals."
+          },
+          "Toroa": {
+            "id": "Toroa",
+            "Region": "East Scarp",
+            "Name": "The Toroa",
+            "Description": "An historic sailing ship refurbished by Captain Rodrique. Used for pirate-themed day trips along the coast and can be hired for parties and work events. The ship visits East Scarp wharf the day before the Flower Dance, the Luau, and the Moonlight Jellies festivals."
+          },
+          "JacobEloiseVivienneHome": {
+            "id": "JacobEloiseVivienneHome",
+            "Region": "East Scarp",
+            "Name": "Jacob, Eloise, and Vivienne's Home",
+            "Description": "The home where Jacob (the valley's mobile veterinarian), his daughter Eloise, and his mother Vivienne live together in East Scarp, located north of Aideen's home. Also serves as Jacob's veterinary clinic."
+          },
+          "JessiesLodgingHouse": {
+            "id": "JessiesLodgingHouse",
+            "Region": "East Scarp",
+            "Name": "Jessie's Lodging House",
+            "Description": "A lodging house in East Scarp owned and operated by Jessie, who provides shelter and guidance to young people who have lost their way. Jade and Juliet live here."
+          },
+          "FairyPool": {
+            "id": "FairyPool",
+            "Region": "East Scarp",
+            "Name": "Fairy Pool",
+            "Description": "A magical location in the valley where Jade conducts her secret research into the mystical aspects of the area."
+          },
+          "JaspersHouse": {
+            "id": "JaspersHouse",
+            "Region": "East Scarp",
+            "Name": "Jasper's House",
+            "Description": "Professor Jasper Thomas's home in East Scarp where he conducts his geological research and studies of the dwarves."
+          },
+          "VictoriaHouse": {
+            "id": "VictoriaHouse",
+            "Region": "East Scarp",
+            "Name": "Victoria's House",
+            "Description": "[PLACEHOLDER - Victoria's house in East Scarp, near Aideen's home]"
+          },
+          "VetClinic": {
+            "id": "VetClinic",
+            "Region": "East Scarp",
+            "Name": "Vet Clinic",
+            "Description": "[PLACEHOLDER - Veterinary clinic in East Scarp, near Aideen's home]"
+          },
+          "BearLodge": {
+            "id": "BearLodge",
+            "Region": "East Scarp",
+            "Name": "Bear Lodge",
+            "Description": "The home of the Bear family in the main north-central area of East Scarp. Sondra, Gunnar, Gudrun, and Sig all live here together."
+          },
+          "MateoTent": {
+            "id": "MateoTent",
+            "Region": "East Scarp",
+            "Name": "Mateo's Tent",
+            "Description": "Mateo's initial home in East Scarp, a tent where they live before moving to the Coastal Adventurer's Guild."
+          },
+          "CoastalAdventurersGuild": {
+            "id": "CoastalAdventurersGuild",
+            "Region": "East Scarp",
+            "Name": "Coastal Adventurer's Guild",
+            "Description": "The Coastal Adventurer's Guild led by Dr. Mateo Luis. This organization helps adventurers navigate the perils of exploration in the valley. Mateo eventually moves here from their tent."
+          },
+          "HectorTower": {
+            "id": "HectorTower",
+            "Region": "East Scarp",
+            "Name": "Hector's Tower",
+            "Description": "A tower in the Deep Mountains where Hector the druid lives in isolation with their companion Book. This reclusive shapeshifter guards the secrets of The Grove from this remote location."
+          }
+        }
+       }
+    ]
+}

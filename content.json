@@ -1,0 +1,181 @@
+{
+    "Format": "2.3.0",
+    "Changes": [
+        {
+            "Action": "Include",
+            "FromFile": "assets/Locations.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/GameSummary.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Aideen.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Beatrice.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Corwin.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Eloise.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Jade.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Jacob.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Jasper.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Jessie.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Josephine.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Juliet.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Kataryna.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Kennedy.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Lexi.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Mateo.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/MisterGinger.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Oliver.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Rosa.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Stella.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Tori.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Tristan.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Vivienne.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Cirrus.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Gunnar.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Hector.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Sen.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Sig.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Teren.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Dandelion.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Dylan.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Eli.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Emperor.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Empress.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Eyvind.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Fievel.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Gudrun.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/LadySheba.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Lavril.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Nora.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Rodney.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Roslin.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Sondra.json"
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/bio/Victoria.json"
+        }
+    ]
+}

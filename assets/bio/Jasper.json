@@ -1,0 +1,75 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jasper",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Professor Jasper Thomas is a shy and polite geologist who has recently returned to Pelican Town to further pursue his studies of the dwarves. A man obsessed with his work and his pursuit for knowledge.\\n\\n**Personality:**\\n\\nJasper is shy and polite, deeply focused on his geological research and the study of dwarven civilization. His obsession with his work consumes much of his life, and he needs help realizing that there is more to life than just his studies.\\n\\n**Living Situation:**\\n\\nJasper lives at Jasper's House and spends much of his time conducting research. His schedule references the Museum, suggesting he may work or study there as well.\\n\\n**Health:**\\n\\nAt some point, Jasper experiences an accident that requires recovery, during which his schedule becomes limited to exercises, reading, and medical visits with Harvey.",
+        "Relationships": {
+          "Gunther": {
+            "id": "Gunther",
+            "Heading": "Gunther",
+            "Description": "Jasper is friends with Gunther, the museum curator, likely bonding over their shared interest in history and artifacts."
+          },
+          "Marlon": {
+            "id": "Marlon",
+            "Heading": "Marlon",
+            "Description": "Jasper is friends with Marlon from the Adventurer's Guild, which he visits on Fridays."
+          },
+          "Kataryna": {
+            "id": "Kataryna",
+            "Heading": "Kataryna",
+            "Description": "Jasper is friends with Kataryna, possibly sharing interests in research or cryptids."
+          }
+        },
+        "Traits": {
+          "Shy": {
+            "id": "Shy",
+            "Heading": "Shy",
+            "Description": "Jasper is naturally shy and reserved in social situations."
+          },
+          "Polite": {
+            "id": "Polite",
+            "Heading": "Polite",
+            "Description": "He maintains courteous and well-mannered behavior with others."
+          },
+          "Scholarly": {
+            "id": "Scholarly",
+            "Heading": "Scholarly",
+            "Description": "As a professor and geologist, he is deeply intellectual and research-focused."
+          },
+          "Obsessive": {
+            "id": "Obsessive",
+            "Heading": "Obsessive",
+            "Description": "He is obsessed with his work and pursuit of knowledge, often to the detriment of other aspects of his life."
+          },
+          "Focused": {
+            "id": "Focused",
+            "Heading": "Focused",
+            "Description": "His dedication to studying the dwarves and geology demonstrates intense focus on his research interests."
+          }
+        },
+        "BiographyEnd": "Jasper represents the struggle between intellectual passion and personal connection, needing to learn that life offers more than just scholarly pursuits.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "geology",
+          "studying the dwarves",
+          "research and knowledge",
+          "the mines",
+          "the Adventurer's Guild",
+          "the museum",
+          "Gunther",
+          "Marlon",
+          "Kataryna",
+          "recovery from his accident",
+          "medical appointments with Harvey"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

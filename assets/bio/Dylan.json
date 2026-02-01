@@ -1,0 +1,57 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Dylan",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Dylan (He/Him) is a more serious and reserved marine biologist. He moved to East Scarp one year prior to The Farmer with his brother, Eli. Dylan is asexual. His story involves building his confidence and exploring the deepest trenches of the Gem Sea. He lives under the watch of Thistle, a strange corvid on their roof.",
+        "Relationships": {
+          "Eli": {
+            "id": "Eli",
+            "Heading": "Eli",
+            "Description": "Dylan's brother, who is an overenthusiastic cryptozoologist."
+          },
+          "Soot": {
+            "id": "Soot",
+            "Heading": "Soot",
+            "Description": "A Dust Sprite rescued from the mines that shares their home."
+          },
+          "Thistle": {
+            "id": "Thistle",
+            "Heading": "Thistle",
+            "Description": "A strange corvid watching over Dylan from their roof."
+          }
+        },
+        "Traits": {
+          "Serious": {
+            "id": "Serious",
+            "Heading": "Serious",
+            "Description": "Known for being serious and reserved."
+          },
+          "MarineBiologist": {
+            "id": "MarineBiologist",
+            "Heading": "Marine Biologist",
+            "Description": "Works as a marine biologist."
+          },
+          "Asexual": {
+            "id": "Asexual",
+            "Heading": "Asexual",
+            "Description": "Dylan's sexual orientation."
+          }
+        },
+        "BiographyEnd": "Dylan is not romanceable at this time.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "marine biology",
+          "exploring the Gem Sea",
+          "building confidence"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

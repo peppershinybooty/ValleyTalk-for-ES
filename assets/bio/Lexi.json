@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Lexi",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "[PLACEHOLDER - Full biography for Lexi]",
+        "Relationships": {},
+        "Traits": {},
+        "BiographyEnd": "[PLACEHOLDER - Biography conclusion for Lexi]",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "PromptOverrides": {},
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

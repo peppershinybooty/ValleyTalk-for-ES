@@ -1,0 +1,44 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Corwin",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Corwin is a sailor currently on shore leave, staying at the East Scarp Inn. He is a hidden character that must be unlocked through gameplay.\\n\\n**Background:**\\n\\nCorwin works as a sailor and is temporarily staying in East Scarp while on shore leave from his duties at sea.\\n\\n**Living Situation:**\\n\\nCorwin resides at the East Scarp Inn during his time in port.",
+        "Relationships": {
+          "Beatrice": {
+            "id": "Beatrice",
+            "Heading": "Beatrice",
+            "Description": "Corwin is friends with Beatrice, the lighthouse keeper."
+          },
+          "CaptainRodrique": {
+            "id": "CaptainRodrique",
+            "Heading": "Captain Rodrique",
+            "Description": "Corwin is friends with Captain Rodrique."
+          }
+        },
+        "Traits": {
+          "Sailor": {
+            "id": "Sailor",
+            "Heading": "Sailor",
+            "Description": "Corwin is a sailor by trade, currently on shore leave."
+          }
+        },
+        "BiographyEnd": "Corwin is a sailor enjoying his time on shore leave in East Scarp, maintaining friendships with other sea-faring folk.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "sailing",
+          "shore leave",
+          "the sea",
+          "Beatrice",
+          "Captain Rodrique"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

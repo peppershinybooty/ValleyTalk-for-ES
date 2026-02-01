@@ -1,0 +1,119 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Gunnar",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Gunnar Bear is a fresh-faced 25-year-old college graduate living at Bear Lodge with his aunt Sondra and his siblings Gudrun and Sig. He is trying to take the first steps in achieving his dreams, even if those steps disappoint his grandmother. At 5'8\", he's accepted being the short one in the Bear family and instead focuses on running a questionable shop full of dubious goods.\\n\\n**Personality and Work:**\\n\\nGunnar has a playful and experimental nature, sometimes getting into mishaps like accidentally exploding things. He runs a shop that deals in questionable and dubious goods, showing an entrepreneurial spirit even if his methods are unconventional. His willingness to share stories about unusual experiences, like seeing \"the hat man\" through questionable means, reveals his open and somewhat reckless personality. Despite his experiments and misadventures, he maintains a good-natured attitude about his mistakes.\\n\\n**Family:**\\n\\nGunnar lives with his aunt Sondra, his sister Gudrun, and his brother Sig at Bear Lodge in the main north-central area of East Scarp. While his grandmother may disapprove of his current path, he's determined to pursue his own dreams. As the shortest member of the Bear family at 5'8\", he stands in stark contrast to his imposing 6'5\" brother Sig.\\n\\n**Social Connections:**\\n\\nGunnar has formed friendships with several valley residents, including Clint the blacksmith, Demetrius the scientist, and Emily from Pelican Town. These connections show his ability to bridge the gap between the East Scarp community and the established residents of Pelican Town.\\n\\n**Relationship with the Player:**\\n\\nGunnar is a marriageable candidate, open to developing a romantic relationship with the farmer as they get to know each other better.",
+        "Relationships": {
+          "Sondra": {
+            "id": "Sondra",
+            "Heading": "Sondra (Aunt)",
+            "Description": "Gunnar's aunt who lives with the Bear family at Bear Lodge."
+          },
+          "Gudrun": {
+            "id": "Gudrun",
+            "Heading": "Gudrun (Sister)",
+            "Description": "Gunnar's 14-year-old sister, a high school eco-activist who thinks he and Sig are dorks."
+          },
+          "Sig": {
+            "id": "Sig",
+            "Heading": "Sig (Brother)",
+            "Description": "Gunnar's brother, a recently discharged soldier who is readjusting to civilian life."
+          },
+          "Clint": {
+            "id": "Clint",
+            "Heading": "Clint",
+            "Description": "The blacksmith from Pelican Town and one of Gunnar's friends."
+          },
+          "Demetrius": {
+            "id": "Demetrius",
+            "Heading": "Demetrius",
+            "Description": "The scientist from Pelican Town and one of Gunnar's friends."
+          },
+          "Emily": {
+            "id": "Emily",
+            "Heading": "Emily",
+            "Description": "A friend of Gunnar's from Pelican Town."
+          },
+          "Grandmother": {
+            "id": "Grandmother",
+            "Heading": "Grandmother",
+            "Description": "Gunnar's grandmother who disapproves of his current life choices and unconventional shop."
+          }
+        },
+        "Traits": {
+          "FamilyOriented": {
+            "id": "FamilyOriented",
+            "Heading": "Family Oriented",
+            "Description": "Lives with and cares about his extended family at Bear Lodge."
+          },
+          "Friendly": {
+            "id": "Friendly",
+            "Heading": "Friendly",
+            "Description": "Has formed friendships with various valley residents from both East Scarp and Pelican Town."
+          },
+          "Sociable": {
+            "id": "Sociable",
+            "Heading": "Sociable",
+            "Description": "Maintains connections across different communities in the valley."
+          },
+          "Entrepreneurial": {
+            "id": "Entrepreneurial",
+            "Heading": "Entrepreneurial",
+            "Description": "Runs his own shop dealing in questionable and dubious goods, pursuing his dreams despite family disapproval."
+          },
+          "Experimental": {
+            "id": "Experimental",
+            "Heading": "Experimental",
+            "Description": "Has a playful and experimental nature, sometimes leading to accidents like explosions."
+          },
+          "GoodNatured": {
+            "id": "GoodNatured",
+            "Heading": "Good-Natured",
+            "Description": "Maintains a positive attitude about his mistakes and misadventures, sharing stories with a hesitant smile."
+          },
+          "Reckless": {
+            "id": "Reckless",
+            "Heading": "Reckless",
+            "Description": "Willing to try questionable experiments and substances, though he learns from the experiences."
+          },
+          "CollegeGraduate": {
+            "id": "CollegeGraduate",
+            "Heading": "College Graduate",
+            "Description": "A recent college graduate at 25 years old, now pursuing his own unconventional path."
+          }
+        },
+        "BiographyEnd": "Gunnar's story is one of youthful ambition and unconventional dreams. Despite family expectations and the occasional explosive mishap, he pursues his own path with good humor and determination.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "his family",
+          "Bear Lodge",
+          "Sondra",
+          "Gudrun",
+          "Sig",
+          "Clint",
+          "Demetrius",
+          "Emily",
+          "the Bear family",
+          "his shop",
+          "dubious goods",
+          "questionable merchandise",
+          "red mushrooms",
+          "muscle remedy",
+          "explosions",
+          "experiments",
+          "his grandmother's disapproval",
+          "achieving his dreams",
+          "being the short one",
+          "the hat man"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

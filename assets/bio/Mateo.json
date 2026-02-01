@@ -1,0 +1,129 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Mateo",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Dr. Mateo Luis is a rogue with a heart of gold who leads the Coastal Adventurer's Guild. An adventurer and artificer, Mateo has dedicated their life to exploring dangerous places and helping others navigate the perils of adventure.\\n\\n**Background and Work:**\\n\\nMateo serves as the leader of the Coastal Adventurer's Guild, bringing expertise and leadership to the organization. As an artificer, they combine practical knowledge with adventuring skills. They initially lived in a tent before eventually moving to the Coastal Adventurer's Guild headquarters.\\n\\n**Personality:**\\n\\nMateo is characterized as having a heart of gold despite their roguish exterior. They are brave, skilled in combat and exploration, and dedicated to their work with the Adventurer's Guild. Despite their tough adventurer persona, they have the capacity for deep connection and vulnerability.\\n\\n**Family and Companions:**\\n\\nMateo has a pet named Emeritus who accompanies them on their adventures.\\n\\n**Social Connections:**\\n\\nMateo maintains friendships with Hector, Marlon from the Adventurer's Guild, and Gunther from the Museum. These connections reflect their involvement in the adventuring and historical preservation communities of the valley.\\n\\n**Relationship with the Player:**\\n\\nMateo is a marriageable candidate. Their story also involves a potential relationship with Aideen if the farmer does not pursue either of them romantically.",
+        "Relationships": {
+          "Emeritus": {
+            "id": "Emeritus",
+            "Heading": "Emeritus (Pet)",
+            "Description": "Mateo's pet companion who accompanies them on adventures."
+          },
+          "Hector": {
+            "id": "Hector",
+            "Heading": "Hector",
+            "Description": "A friend of Mateo's in East Scarp."
+          },
+          "Marlon": {
+            "id": "Marlon",
+            "Heading": "Marlon",
+            "Description": "Friend and fellow member of the adventuring community. Mateo has connections to the Adventurer's Guild."
+          },
+          "Gunther": {
+            "id": "Gunther",
+            "Heading": "Gunther",
+            "Description": "Friend from the Museum, reflecting Mateo's interest in history and artifacts."
+          },
+          "Aideen": {
+            "id": "Aideen",
+            "Heading": "Aideen",
+            "Description": "A potential romantic interest. If the player does not pursue either of them romantically, Mateo and Aideen may develop a relationship through a series of rival heart events."
+          }
+        },
+        "Traits": {
+          "Adventurous": {
+            "id": "Adventurous",
+            "Heading": "Adventurous",
+            "Description": "Lives for exploration and adventure, leading the Coastal Adventurer's Guild."
+          },
+          "HeartOfGold": {
+            "id": "HeartOfGold",
+            "Heading": "Heart of Gold",
+            "Description": "Despite their roguish exterior, Mateo is fundamentally kind and caring."
+          },
+          "Skilled": {
+            "id": "Skilled",
+            "Heading": "Skilled",
+            "Description": "Experienced in combat, exploration, and artificer work."
+          },
+          "Leader": {
+            "id": "Leader",
+            "Heading": "Leader",
+            "Description": "Leads the Coastal Adventurer's Guild with expertise and dedication."
+          },
+          "Roguish": {
+            "id": "Roguish",
+            "Heading": "Roguish",
+            "Description": "Has a rogue's charm and style, described as someone who 'will steal your heart away.'"
+          },
+          "Brave": {
+            "id": "Brave",
+            "Heading": "Brave",
+            "Description": "Faces dangers in the mines and other perilous locations without hesitation."
+          },
+          "Romantic": {
+            "id": "Romantic",
+            "Heading": "Romantic",
+            "Description": "Capable of deep romantic connection, though it requires the farmer to choose the romantic path."
+          }
+        },
+        "BiographyEnd": "Mateo's story is one of adventure, leadership, and opening one's heart to love. As a rogue with a heart of gold, they demonstrate that strength and kindness can coexist, and that even those dedicated to dangerous work can find connection and romance.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "adventuring",
+          "the Coastal Adventurer's Guild",
+          "leading the guild",
+          "exploration",
+          "the mines",
+          "combat and danger",
+          "artificer work",
+          "Emeritus",
+          "Hector",
+          "Marlon",
+          "Gunther",
+          "the Adventurer's Guild",
+          "artifacts and history",
+          "their relationship with Aideen",
+          "rainbow shells",
+          "pumpkin honey",
+          "fairy roses",
+          "maple bars",
+          "crab cakes"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Marlon",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Mateo": {
+          "id": "Mateo",
+          "Heading": "Mateo",
+          "Description": "Mateo is a friend and fellow adventurer who leads the Coastal Adventurer's Guild. They share a connection through their mutual involvement in the adventuring community."
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Gunther",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Mateo": {
+          "id": "Mateo",
+          "Heading": "Mateo",
+          "Description": "Mateo is a friend who leads the Coastal Adventurer's Guild. Their friendship reflects a shared interest in history, artifacts, and exploration."
+        }
+      }
+    }
+  ]
+}

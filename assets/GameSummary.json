@@ -1,0 +1,221 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/GameSummary",
+        "TargetField": [ "Villagers", "Entries" ],
+        "Entries": {
+          "Aideen": { 
+            "id": "Aideen",
+            "Name": "Aideen",
+            "Description": "A refined young woman with Victorian sensibilities who lives in East Scarp with her beloved cat Baron Munchington, seeking intellectual companionship while secretly enjoying romance novels."
+          },
+          "Beatrice": { 
+            "id": "Beatrice",
+            "Name": "Beatrice",
+            "Description": "The dedicated keeper of the East Scarp Lighthouse who has been in Pelican Town for many years, always willing to offer a friendly ear despite her sad past."
+          },
+          "Corwin": { 
+            "id": "Corwin",
+            "Name": "Corwin",
+            "Description": "A sailor on shore leave who stays at the East Scarp Inn, friends with Beatrice and Captain Rodrique. He is a hidden character that must be unlocked."
+          },
+          "Eloise": { 
+            "id": "Eloise",
+            "Name": "Eloise",
+            "Description": "Jacob's precocious daughter who loves animals, especially birds. She was born in the Gotoro Republic and fled with her family when war threatened, now attending classes with Jas and Vincent."
+          },
+          "Jade": { 
+            "id": "Jade",
+            "Name": "Jade",
+            "Description": "A former entomology student working as a field researcher taking water samples around the valley, while secretly investigating its magical aspects. She lives at Jessie's Lodging House with Juliet."
+          },
+          "Jacob": { 
+            "id": "Jacob",
+            "Name": "Jacob",
+            "Description": "The valley's mobile veterinarian who is fiercely devoted to his daughter Eloise. Reserved and still grieving his late wife Delilah, he takes his vet van around the valley every Tuesday."
+          },
+          "Jasper": { 
+            "id": "Jasper",
+            "Name": "Jasper",
+            "Description": "Professor Jasper Thomas, a shy and polite geologist who recently returned to Pelican Town to study the dwarves. Obsessed with his work, he needs to learn there is more to life than research."
+          },
+          "Jessie": { 
+            "id": "Jessie",
+            "Name": "Jessie",
+            "Description": "A compassionate long-time resident who owns the Lodging House in East Scarp, taking in young people who need guidance while working at JojaMart and tending her garden of medicinal herbs."
+          },
+          "Josephine": { 
+            "id": "Josephine",
+            "Name": "Josephine",
+            "Description": "First Lady Josephine, wife of the Governor and mother to Oliver. She stays at the East Scarp Inn when visiting the valley, announced by Mayor Lewis upon arrival."
+          },
+          "Juliet": { 
+            "id": "Juliet",
+            "Name": "Juliet",
+            "Description": "[PLACEHOLDER - Brief description of Juliet]"
+          },
+          "Kataryna": { 
+            "id": "Kataryna",
+            "Name": "Kataryna",
+            "Description": "[PLACEHOLDER - Brief description of Kataryna]"
+          },
+          "Kennedy": { 
+            "id": "Kennedy",
+            "Name": "Kennedy",
+            "Description": "[PLACEHOLDER - Brief description of Kennedy]"
+          },
+          "Lexi": { 
+            "id": "Lexi",
+            "Name": "Lexi",
+            "Description": "[PLACEHOLDER - Brief description of Lexi]"
+          },
+          "Mateo": { 
+            "id": "Mateo",
+            "Name": "Mateo",
+            "Description": "Dr. Mateo Luis, a rogue with a heart of gold who leads the Coastal Adventurer's Guild. An adventurer and artificer who lives for exploration and can develop a romance with the farmer through rival heart events with Aideen."
+          },
+          "MisterGinger": { 
+            "id": "MisterGinger",
+            "Name": "Mr. Ginger",
+            "Description": "[PLACEHOLDER - Brief description of Mr. Ginger]"
+          },
+          "Oliver": { 
+            "id": "Oliver",
+            "Name": "Oliver",
+            "Description": "[PLACEHOLDER - Brief description of Oliver]"
+          },
+          "Rosa": { 
+            "id": "Rosa",
+            "Name": "Rosa",
+            "Description": "[PLACEHOLDER - Brief description of Rosa]"
+          },
+          "Stella": { 
+            "id": "Stella",
+            "Name": "Stella",
+            "Description": "[PLACEHOLDER - Brief description of Stella]"
+          },
+          "Tori": { 
+            "id": "Tori",
+            "Name": "Tori",
+            "Description": "[PLACEHOLDER - Brief description of Tori]"
+          },
+          "Tristan": { 
+            "id": "Tristan",
+            "Name": "Tristan",
+            "Description": "[PLACEHOLDER - Brief description of Tristan]"
+          },
+          "Vivienne": { 
+            "id": "Vivienne",
+            "Name": "Vivienne",
+            "Description": "[PLACEHOLDER - Brief description of Vivienne]"
+          },
+          "Cirrus": { 
+            "id": "Cirrus",
+            "Name": "Cirrus",
+            "Description": "[PLACEHOLDER - Brief description of Cirrus]"
+          },
+          "Gunnar": { 
+            "id": "Gunnar",
+            "Name": "Gunnar",
+            "Description": "A fresh-faced 25-year-old college graduate and the shortest Bear at 5'8\". He runs a questionable shop full of dubious goods and sometimes accidentally explodes things, pursuing his dreams despite his grandmother's disappointment."
+          },
+          "Hector": { 
+            "id": "Hector",
+            "Name": "Hector",
+            "Description": "An ornery, eccentric druid and shapeshifter living in isolation at Hector's Tower in the Deep Mountains. Cunning and reclusive, they test those who seek them to determine if they're worthy of trust and knowledge of The Grove."
+          },
+          "Sen": { 
+            "id": "Sen",
+            "Name": "Sen",
+            "Description": "[PLACEHOLDER - Brief description of Sen]"
+          },
+          "Sig": { 
+            "id": "Sig",
+            "Name": "Sig",
+            "Description": "Sig (never Sigurd) Bear, a 28-year-old recently discharged soldier standing 6'5\" tall. Grumpy and readjusting to civilian life, he finds solace in poetry, beekeeping, and the support of his family at Bear Lodge."
+          },
+          "Teren": { 
+            "id": "Teren",
+            "Name": "Teren",
+            "Description": "[PLACEHOLDER - Brief description of Teren]"
+          },
+          "Dandelion": { 
+            "id": "Dandelion",
+            "Name": "Dandelion",
+            "Description": "[PLACEHOLDER - Brief description of Dandelion]"
+          },
+          "Dylan": { 
+            "id": "Dylan",
+            "Name": "Dylan",
+            "Description": "[PLACEHOLDER - Brief description of Dylan]"
+          },
+          "Eli": { 
+            "id": "Eli",
+            "Name": "Eli",
+            "Description": "[PLACEHOLDER - Brief description of Eli]"
+          },
+          "Emperor": { 
+            "id": "Emperor",
+            "Name": "The Emperor",
+            "Description": "[PLACEHOLDER - Brief description of The Emperor]"
+          },
+          "Empress": { 
+            "id": "Empress",
+            "Name": "The Empress",
+            "Description": "[PLACEHOLDER - Brief description of The Empress]"
+          },
+          "Eyvind": { 
+            "id": "Eyvind",
+            "Name": "Eyvind",
+            "Description": "[PLACEHOLDER - Brief description of Eyvind]"
+          },
+          "Fievel": { 
+            "id": "Fievel",
+            "Name": "Fievel",
+            "Description": "[PLACEHOLDER - Brief description of Fievel]"
+          },
+          "Gudrun": { 
+            "id": "Gudrun",
+            "Name": "Gudrun",
+            "Description": "A 14-year-old high school eco-activist at 5'5\" with a burning passion for fish and the environment. Full of knowledge about pollution and aquatic life, she dreams of living on a barge while dealing with homework and her dork brothers."
+          },
+          "LadySheba": { 
+            "id": "LadySheba",
+            "Name": "Lady Sheba",
+            "Description": "[PLACEHOLDER - Brief description of Lady Sheba]"
+          },
+          "Lavril": { 
+            "id": "Lavril",
+            "Name": "Lavril",
+            "Description": "[PLACEHOLDER - Brief description of Lavril]"
+          },
+          "Nora": { 
+            "id": "Nora",
+            "Name": "Nora",
+            "Description": "[PLACEHOLDER - Brief description of Nora]"
+          },
+          "Rodney": { 
+            "id": "Rodney",
+            "Name": "Rodney",
+            "Description": "[PLACEHOLDER - Brief description of Rodney]"
+          },
+          "Roslin": { 
+            "id": "Roslin",
+            "Name": "Roslin",
+            "Description": "[PLACEHOLDER - Brief description of Roslin]"
+          },
+          "Sondra": { 
+            "id": "Sondra",
+            "Name": "Sondra",
+            "Description": "[PLACEHOLDER - Brief description of Sondra]"
+          },
+          "Victoria": { 
+            "id": "Victoria",
+            "Name": "Victoria",
+            "Description": "[PLACEHOLDER - Brief description of Victoria]"
+          }
+        }
+      }
+    ]
+}

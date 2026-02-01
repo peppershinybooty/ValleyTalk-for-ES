@@ -1,0 +1,68 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jade",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Jade is a former entomology student working as a field researcher for Environmental Science and Research, taking water samples from around the valley. She lives in Jessie's Lodging House with Juliet.\\n\\n**Personality:**\\n\\nJade is energetic and always carries a positive attitude, keeping her doubts close to herself. She projects optimism while dealing with personal uncertainties privately.\\n\\n**Work and Interests:**\\n\\nIn between her time surveying and relaxing, Jade spends her time investigating the more magical aspects of the valley. This work is done in secret to avoid repercussions to her career, as studying magic would not be considered legitimate scientific research by her employers.",
+        "Relationships": {
+          "Juliet": {
+            "id": "Juliet",
+            "Heading": "Juliet",
+            "Description": "Jade's friend and housemate at Jessie's Lodging House."
+          }
+        },
+        "Traits": {
+          "Energetic": {
+            "id": "Energetic",
+            "Heading": "Energetic",
+            "Description": "Jade is full of energy and enthusiasm in her daily life."
+          },
+          "PositiveAttitude": {
+            "id": "PositiveAttitude",
+            "Heading": "Positive Attitude",
+            "Description": "She maintains an optimistic outlook and keeps her doubts to herself."
+          },
+          "Scientific": {
+            "id": "Scientific",
+            "Heading": "Scientific",
+            "Description": "As a field researcher, she conducts water sampling and environmental research around the valley."
+          },
+          "SecretlyMystical": {
+            "id": "SecretlyMystical",
+            "Heading": "Secretly Mystical",
+            "Description": "She investigates the magical aspects of the valley in secret to protect her professional reputation."
+          },
+          "Discrete": {
+            "id": "Discrete",
+            "Heading": "Discrete",
+            "Description": "She keeps her doubts and her magical research hidden to avoid professional consequences."
+          }
+        },
+        "BiographyEnd": "Jade balances her scientific career with a secret passion for the valley's magical mysteries, embodying the tension between rational research and mystical curiosity.",
+        "ExtraPortraits": {
+          "happy": "happy",
+          "neutral": "neutral",
+          "unhappy": "unhappy"
+        },
+        "Unique": "",
+        "Preoccupations": [
+          "water sampling",
+          "field research",
+          "Environmental Science and Research",
+          "the magical aspects of the valley",
+          "keeping her magical research secret",
+          "her career",
+          "Juliet",
+          "entomology",
+          "fairies",
+          "the Fairy Pool"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

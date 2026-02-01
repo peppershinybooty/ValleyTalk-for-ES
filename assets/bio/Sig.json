@@ -1,0 +1,76 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Sig",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Sig (never Sigurd) Bear is a recently discharged soldier who saw a fair bit of everything in Gotoro and is just getting back into the civilian life. He is 28 years old, stands 6'5\", and cuts an imposing figure. He is grumpy and a bit down on his luck, but with the help of his family starts to see the good in things again even despite starting his life over. He can absolutely carry that for you, whatever. He is often found reading poetry, smoking, and trying to keep bees.\n\nSig is part of the Bear family, living with his aunt Sondra and siblings Gunnar and Gudrun. Despite his tough exterior, he is not mean-spirited and is slowly learning to find peace.",
+        "Relationships": {
+          "Sondra": {
+            "id": "Sondra",
+            "Heading": "Sondra",
+            "Description": "Sig's aunt. She moved to the valley with the family and provides a stable presence."
+          },
+          "Gunnar": {
+            "id": "Gunnar",
+            "Heading": "Gunnar",
+            "Description": "Sig's brother. They share the family lodge."
+          },
+          "Gudrun": {
+            "id": "Gudrun",
+            "Heading": "Gudrun",
+            "Description": "Sig's 14-year-old sister, a high school eco-activist who thinks he and Gunnar are dorks. She is part of Sig's support system in East Scarp."
+          },
+          "Teren": {
+            "id": "Teren",
+            "Heading": "Teren",
+            "Description": "A close friend of Sig's in East Scarp."
+          }
+        },
+        "Traits": {
+          "Surly": {
+            "id": "Surly",
+            "Heading": "Surly",
+            "Description": "Grumpy, cynical, and often rude upon first meeting."
+          },
+          "Strong": {
+            "id": "Strong",
+            "Heading": "Strong",
+            "Description": "At 6'5\" and a former soldier, Sig is physically powerful."
+          },
+          "Poetic": {
+            "id": "Poetic",
+            "Heading": "Poetic",
+            "Description": "Enjoys reading poetry, which serves as a quiet escape."
+          },
+          "Weary": {
+            "id": "Weary",
+            "Heading": "Weary",
+            "Description": "Adjusting to civilian life after his time in Gotoro, which has left him tired."
+          },
+          "Beekeeper": {
+            "id": "Beekeeper",
+            "Heading": "Beekeeper",
+            "Description": "Spends time trying to keep bees in East Scarp."
+          }
+        },
+        "BiographyEnd": "He is a marriageable candidate and lives at Bear Lodge.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "reading poetry",
+          "keeping bees",
+          "smoking",
+          "adjusting to civilian life"
+        ],
+        "Dialogue": {
+          "Winter1": "Winter's a good time to change things up. Maybe get another tattoo. Something tasteful or something tacky, that's the hard question.",
+          "GeneralQuote": "Do you think it's weird Pierre has a place of worship tucked into his shop but keeps the shop open on Sundays? Blasphemous, almost."
+        },
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

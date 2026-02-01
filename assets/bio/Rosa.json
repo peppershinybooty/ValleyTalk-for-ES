@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Rosa",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "[PLACEHOLDER - Full biography for Rosa]",
+        "Relationships": {},
+        "Traits": {},
+        "BiographyEnd": "[PLACEHOLDER - Biography conclusion for Rosa]",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "PromptOverrides": {},
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

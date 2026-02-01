@@ -1,0 +1,126 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Hector",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Hector is an ornery recluse living in East Scarp's Deep Mountains. This cunning and eccentric druid is a shapeshifter who will test how trustworthy those who seek them out truly are.\\n\\n**Background and Nature:**\\n\\nHector is a druid with the ability to shapeshift, living in isolation in Hector's Tower in the Deep Mountains. As a genderfluid individual, their pronouns match their presentation. They possess knowledge of The Grove and its secrets, which they guard carefully. Their eccentric nature and cunning personality make them a challenging individual to earn the trust of.\\n\\n**Personality:**\\n\\nHector is ornery and reclusive, preferring solitude in the Deep Mountains to the company of most people. They are eccentric in their ways and cunning in their interactions, testing those who approach them to determine if they are worthy of trust. Despite their prickly exterior and isolated lifestyle, they maintain a few select friendships with those who have proven themselves.\\n\\n**Family and Companions:**\\n\\nHector has a companion named Book who shares their tower home.\\n\\n**Social Connections:**\\n\\nDespite their reclusive nature, Hector maintains friendships with Mateo, Eloise, and Jacob. These connections suggest that beneath their ornery exterior, they are capable of meaningful relationships with those they deem trustworthy.\\n\\n**Relationship with the Player:**\\n\\nHector is a marriageable candidate with prerequisites. Their relationship with the farmer requires proving one's trustworthiness and completing important tasks before they will open up and share their secrets.",
+        "Relationships": {
+          "Book": {
+            "id": "Book",
+            "Heading": "Book",
+            "Description": "Hector's companion who lives with them in the tower."
+          },
+          "Mateo": {
+            "id": "Mateo",
+            "Heading": "Mateo",
+            "Description": "A friend of Hector's, one of the few people the reclusive druid trusts."
+          },
+          "Eloise": {
+            "id": "Eloise",
+            "Heading": "Eloise",
+            "Description": "A young friend of Hector's, showing that despite their ornery nature, they can connect with others."
+          },
+          "Jacob": {
+            "id": "Jacob",
+            "Heading": "Jacob",
+            "Description": "A friend of Hector's, the valley's mobile veterinarian."
+          }
+        },
+        "Traits": {
+          "Ornery": {
+            "id": "Ornery",
+            "Heading": "Ornery",
+            "Description": "Grumpy and difficult, not easily befriended or impressed by others."
+          },
+          "Reclusive": {
+            "id": "Reclusive",
+            "Heading": "Reclusive",
+            "Description": "Lives in isolation in the Deep Mountains, preferring solitude to society."
+          },
+          "Cunning": {
+            "id": "Cunning",
+            "Heading": "Cunning",
+            "Description": "Clever and shrewd, tests those who seek them out to determine their trustworthiness."
+          },
+          "Eccentric": {
+            "id": "Eccentric",
+            "Heading": "Eccentric",
+            "Description": "Unconventional and quirky in their ways and beliefs."
+          },
+          "Shapeshifter": {
+            "id": "Shapeshifter",
+            "Heading": "Shapeshifter",
+            "Description": "Possesses the druidic ability to change form."
+          },
+          "Genderfluid": {
+            "id": "Genderfluid",
+            "Heading": "Genderfluid",
+            "Description": "Their gender presentation and pronouns shift to match how they are presenting."
+          },
+          "Guarded": {
+            "id": "Guarded",
+            "Heading": "Guarded",
+            "Description": "Protective of their secrets and knowledge of The Grove, only sharing with those they trust."
+          },
+          "Druid": {
+            "id": "Druid",
+            "Heading": "Druid",
+            "Description": "Possesses druidic knowledge and connection to nature and The Grove."
+          }
+        },
+        "BiographyEnd": "Hector's story is one of earning trust and proving oneself worthy. As an ornery recluse who guards important secrets, they represent the challenge of breaking through someone's defenses to discover the person beneath.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "The Grove",
+          "druidic knowledge",
+          "shapeshifting",
+          "solitude",
+          "the Deep Mountains",
+          "Hector's Tower",
+          "testing trustworthiness",
+          "Book",
+          "Mateo",
+          "Eloise",
+          "Jacob",
+          "nature",
+          "secrets",
+          "fiddlehead ferns",
+          "amaranth",
+          "fiddlehead risotto"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Eloise",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Hector": {
+          "id": "Hector",
+          "Heading": "Hector",
+          "Description": "Hector is a friend of Eloise's, an ornery druid living in the Deep Mountains who has formed a connection with the young girl despite their reclusive nature."
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jacob",
+      "TargetField": ["Relationships"],
+      "Priority": "Late",
+      "Entries": {
+        "Hector": {
+          "id": "Hector",
+          "Heading": "Hector",
+          "Description": "Hector is a friend of Jacob's, a druid living in the Deep Mountains who trusts the reserved veterinarian."
+        }
+      }
+    }
+  ]
+}

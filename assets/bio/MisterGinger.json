@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/MisterGinger",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "[PLACEHOLDER - Full biography for MisterGinger]",
+        "Relationships": {},
+        "Traits": {},
+        "BiographyEnd": "[PLACEHOLDER - Biography conclusion for MisterGinger]",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "PromptOverrides": {},
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

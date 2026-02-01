@@ -1,0 +1,56 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Josephine",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "First Lady Josephine is the wife of the Governor and mother to Oliver. She stays at the East Scarp Inn when visiting the valley.\\n\\n**Background:**\\n\\nAs the First Lady, Josephine holds a high-ranking position in society as the Governor's wife. Despite her prestigious status, she takes time to visit the valley and connect with its residents. Mayor Lewis typically announces her arrival in town.",
+        "Relationships": {
+          "Oliver": {
+            "id": "Oliver",
+            "Heading": "Oliver (son)",
+            "Description": "Josephine's son who accompanies her to the valley."
+          },
+          "Governor": {
+            "id": "Governor",
+            "Heading": "Governor (husband)",
+            "Description": "Josephine's husband, the Governor who occasionally visits Pelican Town for events."
+          }
+        },
+        "Traits": {
+          "Dignified": {
+            "id": "Dignified",
+            "Heading": "Dignified",
+            "Description": "As First Lady, she carries herself with grace and dignity befitting her position."
+          },
+          "Cultured": {
+            "id": "Cultured",
+            "Heading": "Cultured",
+            "Description": "She visits the museum and engages with the cultural aspects of the community."
+          },
+          "Approachable": {
+            "id": "Approachable",
+            "Heading": "Approachable",
+            "Description": "Despite her high status, she takes time to connect with valley residents and visit local shops."
+          }
+        },
+        "BiographyEnd": "Josephine represents the bridge between high society and small-town life, bringing her son Oliver to experience the valley while maintaining her role as First Lady.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "her son Oliver",
+          "the Governor",
+          "visiting the valley",
+          "cultural activities",
+          "the museum",
+          "Pierre's shop",
+          "connecting with locals"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

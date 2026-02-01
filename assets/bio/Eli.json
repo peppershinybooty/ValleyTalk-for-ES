@@ -1,0 +1,52 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Eli",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Eli (He/Him) is an energetic, overenthusiastic cryptozoologist and part-time adventurer. He moved to East Scarp one year prior to The Farmer with his brother, Dylan. Eli is gay. His story involves indulging his insatiable interest in the mysteries that lie beyond the edge of the forest.",
+        "Relationships": {
+          "Dylan": {
+            "id": "Dylan",
+            "Heading": "Dylan",
+            "Description": "Eli's brother, who is a reserved marine biologist."
+          },
+          "Soot": {
+            "id": "Soot",
+            "Heading": "Soot",
+            "Description": "A Dust Sprite rescued from the mines that shares their home."
+          }
+        },
+        "Traits": {
+          "Energetic": {
+            "id": "Energetic",
+            "Heading": "Energetic",
+            "Description": "Known for being energetic and overenthusiastic."
+          },
+          "Cryptozoologist": {
+            "id": "Cryptozoologist",
+            "Heading": "Cryptozoologist",
+            "Description": "Works as a cryptozoologist and part-time adventurer."
+          },
+          "Gay": {
+            "id": "Gay",
+            "Heading": "Gay",
+            "Description": "Eli's sexual orientation."
+          }
+        },
+        "BiographyEnd": "Eli is not romanceable at this time.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "cryptozoology",
+          "adventuring",
+          "exploring the forest"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

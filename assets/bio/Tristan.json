@@ -1,0 +1,22 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Tristan",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "[PLACEHOLDER - Full biography for Tristan]",
+        "Relationships": {},
+        "Traits": {},
+        "BiographyEnd": "[PLACEHOLDER - Biography conclusion for Tristan]",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "PromptOverrides": {},
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

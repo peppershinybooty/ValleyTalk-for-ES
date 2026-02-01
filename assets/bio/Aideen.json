@@ -1,0 +1,77 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Aideen",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Aideen is a young woman of refined taste and Victorian sensibilities who lives in East Scarp. She seeks companions of refinement and intellect who enjoy discussing the more cultured aspects of life such as the arts and philosophy.\\n\\n**Living Situation:**\\n\\nAideen lives alone in her home in East Scarp, located northwest of the East Scarp Inn. She shares her home with her beloved cat, Baron Munchington, who is ridiculously large and fluffy. Although Baron lacks intellectual conversation skills and fine deportment, Aideen absolutely adores him. Her home includes a guest room that she wishes to rent out to a suitable tenant.\\n\\n**Personality and Interests:**\\n\\nAideen initially comes across as something of a snob, looking down on the farmer and most residents of Pelican Town as being uncivilized. However, beneath this haughty exterior, she secretly enjoys romance novels and desires for her knight to come and sweep her off her feet. She has high standards for companionship and can be quite picky about potential friends or romantic partners.\\n\\nHer interests reflect her refined nature: she adores the arts and philosophy, intellectual conversation, and elegant objects like elvish jewelry and ornamental fans. She has a particular fondness for flowers, especially blue jazz and bird of paradise. Despite her cultivated exterior, she harbors a secret weakness for romance novels, which hint at the romantic dreamer beneath the sophisticated facade.\\n\\n**Relationship with the Player:**\\n\\nInitially dismissive and snobbish toward the farmer, Aideen gradually warms up as friendship develops. As the farmer gets to know her, she gradually becomes more accepting and reveals her warmer side. She can become a marriage candidate and will eventually move to the farm if married.",
+        "Relationships": {
+          "Baron Munchington": {
+            "id": "Baron Munchington",
+            "Heading": "Baron Munchington",
+            "Description": "Aideen's ridiculously large and fluffy cat whom she absolutely adores, despite his lack of intellectual conversation and refined manners."
+          },
+          "Mateo": {
+            "id": "Mateo",
+            "Heading": "Mateo",
+            "Description": "A potential romantic interest. If the player does not pursue either of them romantically, Aideen and Mateo may develop a relationship together."
+          }
+        },
+        "Traits": {
+          "Refined": {
+            "id": "Refined",
+            "Heading": "Refined",
+            "Description": "Aideen has cultivated tastes and Victorian sensibilities, appreciating the finer things in life including arts, philosophy, and elegant objects."
+          },
+          "Snobbish": {
+            "id": "Snobbish",
+            "Heading": "Snobbish (initially)",
+            "Description": "She initially looks down on the farmer and Pelican Town residents as uncivilized, though this attitude softens with friendship."
+          },
+          "IntellectuallyInclined": {
+            "id": "IntellectuallyInclined",
+            "Heading": "Intellectually Inclined",
+            "Description": "She seeks companions who can engage in discussions about arts, philosophy, and other cultured topics."
+          },
+          "SecretRomantic": {
+            "id": "SecretRomantic",
+            "Heading": "Secret Romantic",
+            "Description": "Despite her refined exterior, she secretly enjoys romance novels and dreams of being swept off her feet by her knight in shining armor."
+          },
+          "Particular": {
+            "id": "Particular",
+            "Heading": "Particular",
+            "Description": "She has high standards and can be quite picky about potential friends, tenants, and romantic partners."
+          },
+          "AnimalLover": {
+            "id": "AnimalLover",
+            "Heading": "Animal Lover",
+            "Description": "She adores her cat Baron Munchington, showing a softer, more affectionate side."
+          }
+        },
+        "BiographyEnd": "Aideen's story is one of learning to look past surface appearances and social pretensions. While she values refinement and culture, she also yearns for genuine connection and romance, revealing that beneath her snobbish exterior lies a warm heart capable of deep affection.",
+        "ExtraPortraits": {
+          "Happy": "happy",
+          "Concerned": "concerned"
+        },
+        "Unique": "",
+        "Preoccupations": [
+          "arts and philosophy",
+          "refined conversation",
+          "romance novels",
+          "finding a suitable tenant for her guest room",
+          "Baron Munchington",
+          "flowers",
+          "elegant and beautiful objects",
+          "Victorian propriety",
+          "intellectual pursuits",
+          "her relationship with Mateo"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

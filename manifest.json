@@ -1,0 +1,12 @@
+{
+  "Name": "Valley Talk for East Scarp",
+  "Author": "eppielicious",
+  "Version": "1.0.0",
+  "Description": "east scarp content pack for ValleyTalk",
+  "UniqueID": "eppielicious.ValleyTalkES",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
